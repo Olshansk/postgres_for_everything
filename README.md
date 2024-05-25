@@ -4,7 +4,7 @@ Keep it simple, use Postgres for everything.
 
 ## Goals & Inspiration <!-- omit in toc -->
 
-The goal of this repository is to demonstrate how to use Postgres for everything.
+The goal of this repository is to demonstrate how to use **Postgres for Everything**.
 
 It's inspired by [this article](https://www.amazingcto.com/postgres-for-everything/)
 from the [Amazing CTO](https://www.amazingcto.com/) as well as
