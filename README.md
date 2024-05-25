@@ -96,6 +96,7 @@ different ways Postgres can be used.
 ## Time Series
 
 - https://github.com/timescale/timescaledb
+- https://github.com/tembo-io/pg_timeseries
 
 ## Column Oriented
 
