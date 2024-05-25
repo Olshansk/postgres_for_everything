@@ -3,7 +3,7 @@
 Keep it simple, use Postgres for everything.
 
 - [Goals \& Inspiration](#goals--inspiration)
-- [Blog Posts](#blog-posts)
+- [Blog Posts \& Articles](#blog-posts--articles)
 - [Cron Jobs](#cron-jobs)
 - [Message Queues](#message-queues)
 - [GIS \& Mapping](#gis--mapping)
@@ -24,11 +24,11 @@ Keep it simple, use Postgres for everything.
 - [Caching](#caching)
 - [Unit Tests](#unit-tests)
 - [HTML \& Applications](#html--applications)
-- [Graphics / Visual](#graphics--visual)
+- [Graphics \& Visualizations](#graphics--visualizations)
 - [Migrations](#migrations)
 - [Performance Tuning](#performance-tuning)
 - [Scaling](#scaling)
-- [Dashboards / UIs](#dashboards--uis)
+- [Dashboards \& UIs](#dashboards--uis)
 - [Data Visualization](#data-visualization)
 - [Package Management](#package-management)
 - [Language Servers](#language-servers)
@@ -39,13 +39,15 @@ Keep it simple, use Postgres for everything.
 The goal of this repository is to demonstrate how to use Postgres for everything.
 
 It's inspired by [this article](https://www.amazingcto.com/postgres-for-everything/)
-[Amazing CTO](https://www.amazingcto.com/) as well as [this GitHub gist](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
+from the [Amazing CTO](https://www.amazingcto.com/) as well as
+[this GitHub gist](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
 from [@cpursley](https://gist.github.com/cpursley).
 
-I wanted a place to collect contributions from anyone to keep track of all the
-different ways Postgres can be used.
+It seems like every week I hear of a new tool on top of Postgres or another way
+it can being used, so I wanted a place where I can keep track of everything. If
+you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_everything/pulls)!
 
-## Blog Posts
+## Blog Posts & Articles
 
 - [Simplify: move code into database functions](https://sive.rs/pg)
 - [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/)
@@ -97,6 +99,7 @@ different ways Postgres can be used.
 
 - https://github.com/timescale/timescaledb
 - https://github.com/tembo-io/pg_timeseries
+  - [Introducing pg_timeseries: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
 
 ## Column Oriented
 
@@ -159,7 +162,7 @@ different ways Postgres can be used.
 - [pg_render](https://github.com/mkaski/pg_render)
 - [plmustache](https://github.com/PostgREST/plmustache)
 
-## Graphics / Visual
+## Graphics & Visualizations
 
 - [pgSVG](https://github.com/dr-jts/pg_svg)
 
@@ -184,7 +187,7 @@ different ways Postgres can be used.
 - https://github.com/supabase/supavisor
 - https://github.com/pg-sharding/spqr
 
-## Dashboards / UIs
+## Dashboards & UIs
 
 - [Baserow](https://baserow.io)
 - [NocoDB](https://github.com/nocodb/nocodb)
