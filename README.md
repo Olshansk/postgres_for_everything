@@ -17,17 +17,17 @@ Keep it simple, use Postgres for everything.
 - [NoSQL](#nosql)
 - [Graph Data](#graph-data)
 - [Foreign Data](#foreign-data)
-- [Alternative Query Langauges](#alternative-query-langauges)
+- [Alternative Query Languages](#alternative-query-languages)
 - [HTTP](#http)
 - [APIs](#apis)
-- [Events, Replication, CDC,](#events-replication-cdc)
+- [Events, Replication, CDC](#events-replication-cdc)
 - [Caching](#caching)
 - [Unit Tests](#unit-tests)
-- [HTML and Applications](#html-and-applications)
+- [HTML \& Applications](#html--applications)
 - [Graphics / Visual](#graphics--visual)
 - [Migrations](#migrations)
 - [Performance Tuning](#performance-tuning)
-- [Scalling](#scalling)
+- [Scaling](#scaling)
 - [Dashboards / UIs](#dashboards--uis)
 - [Data Visualization](#data-visualization)
 - [Package Management](#package-management)
@@ -116,7 +116,7 @@ different ways Postgres can be used.
 
 - https://github.com/supabase/wrappers
 
-## Alternative Query Langauges
+## Alternative Query Languages
 
 - https://github.com/kaspermarstal/plprql
 - https://supabase.github.io/pg_graphql
@@ -133,7 +133,7 @@ different ways Postgres can be used.
 - https://postgraphile.org
 - https://supabase.github.io/pg_graphql
 
-## Events, Replication, CDC,
+## Events, Replication, CDC
 
 - https://www.postgresql.org/docs/current/sql-notify.html
 - https://github.com/cpursley/walex (Disclosure: I maintain this and think it's pretty awesome)
@@ -151,7 +151,7 @@ different ways Postgres can be used.
 - https://github.com/theory/pgtap
 - https://github.com/peterldowns/pgtestdb
 
-## HTML and Applications
+## HTML & Applications
 
 - [SQLpage](https://github.com/lovasoa/SQLpage)
 - [Omnigres](https://github.com/omnigres/omnigres)
@@ -177,7 +177,7 @@ different ways Postgres can be used.
 - [pg_hint_plan](https://github.com/ossc-db/pg_hint_plan)
 - [PGHero](https://github.com/ankane/pghero)
 
-## Scalling
+## Scaling
 
 - [How Cloudflare Achieved 55 Million Requests per Second with Just 15 PostgreSQL Clusters!](https://levelup.gitconnected.com/how-cloudflare-achieved-55-million-requests-per-second-with-just-15-postgresql-clusters-2d8a28ffd100)
 - https://github.com/supabase/supavisor
