@@ -6,6 +6,7 @@ Keep it simple, use Postgres for everything.
 - [Blog Posts \& Articles](#blog-posts--articles)
 - [Cron Jobs](#cron-jobs)
 - [Message Queues](#message-queues)
+- [Analytics](#analytics)
 - [GIS \& Mapping](#gis--mapping)
 - [Audit Logs](#audit-logs)
 - [Access Control \& Authorization](#access-control--authorization)
@@ -64,6 +65,12 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 - https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology
 - https://github.com/tembo-io/pgmq
+- [SKIP LOCKED](https://www.2ndquadrant.com/en/blog/what-is-select-skip-locked-for-in-postgresql-9-5/)
+- https://github.com/riverqueue/river
+
+## Analytics
+
+- [pg_analytics: Transforming Postgres into a Fast OLAP Database](https://blog.paradedb.com/pages/introducing_analytics)
 
 ## GIS & Mapping
 
@@ -89,6 +96,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 - [Postgres Full Text Search](https://gist.github.com/cpursley/e3586382c3a42c54ca7f5fef1665be7b) (bunch of helpful links)
 - https://github.com/paradedb/paradedb
+- [Postgres Full Text Search vs the rest](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
 
 ### Vector
 
@@ -111,6 +119,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - https://www.postgresql.org/docs/current/datatype-json.html
 - https://github.com/robconery/dox
 - https://www.ferretdb.com
+- [Using JSONB in PostgreSQL®: How to Effectively Store & Index JSON Data in PostgreSQL](https://scalegrid.io/blog/using-jsonb-in-postgresql-how-to-effectively-store-index-json-data-in-postgresql/)
 
 ## Graph Data
 
@@ -124,6 +133,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 - https://github.com/kaspermarstal/plprql
 - https://supabase.github.io/pg_graphql
+- https://github.com/dosco/graphjin
 
 ## HTTP
 
