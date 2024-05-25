@@ -2,7 +2,21 @@
 
 Keep it simple, use Postgres for everything.
 
-- [Goals \& Inspiration](#goals--inspiration)
+## Goals & Inspiration <!-- omit in toc -->
+
+The goal of this repository is to demonstrate how to use Postgres for everything.
+
+It's inspired by [this article](https://www.amazingcto.com/postgres-for-everything/)
+from the [Amazing CTO](https://www.amazingcto.com/) as well as
+[this GitHub gist](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
+from [@cpursley](https://gist.github.com/cpursley).
+
+It seems like every week I hear of a new tool on top of Postgres or another way
+it can being used, so I wanted a place where I can keep track of everything. If
+you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_everything/pulls)!
+
+## Table of Contents <!-- omit in toc -->
+
 - [Blog Posts \& Articles](#blog-posts--articles)
 - [Cron Jobs](#cron-jobs)
 - [Message Queues](#message-queues)
@@ -34,19 +48,6 @@ Keep it simple, use Postgres for everything.
 - [Package Management](#package-management)
 - [Language Servers](#language-servers)
 - [Miscellaneous](#miscellaneous)
-
-## Goals & Inspiration
-
-The goal of this repository is to demonstrate how to use Postgres for everything.
-
-It's inspired by [this article](https://www.amazingcto.com/postgres-for-everything/)
-from the [Amazing CTO](https://www.amazingcto.com/) as well as
-[this GitHub gist](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
-from [@cpursley](https://gist.github.com/cpursley).
-
-It seems like every week I hear of a new tool on top of Postgres or another way
-it can being used, so I wanted a place where I can keep track of everything. If
-you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_everything/pulls)!
 
 ## Blog Posts & Articles
 
