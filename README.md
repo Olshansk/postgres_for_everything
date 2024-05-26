@@ -150,6 +150,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 ## Events, Replication, CDC
 
+- [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 - https://www.postgresql.org/docs/current/sql-notify.html
 - https://github.com/cpursley/walex (Disclosure: I maintain this and think it's pretty awesome)
 - https://github.com/PeerDB-io/peerdb
