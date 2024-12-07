@@ -15,7 +15,7 @@ from [@cpursley](https://gist.github.com/cpursley).
 
 It seems like every week I hear of a new tool on top of Postgres or another way
 it can being used, so I wanted a place where I can keep track of everything. If
-you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything)/pulls>)!
+you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_everything/pulls)!
 
 ## Table of Contents <!-- omit in toc -->
 
@@ -56,14 +56,14 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 
 - [Simplify: move code into database functions](https://sive.rs/pg)
 - [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/)
-- [PostgreSQL is the worlds’ best database](https://www.2ndquadrant.com/en/blog/postgresql-is-the-worlds-best-database/)
+- [PostgreSQL is the worlds' best database](https://www.2ndquadrant.com/en/blog/postgresql-is-the-worlds-best-database/)
 - [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 - [Hacker News discussion](https://news.ycombinator.com/item?id=39273954)
 
 ## Cron Jobs
 
-- [citusdata/pg_cron]([citusdata/pg_cron)](https://github.com/citusdata/pg_cron))
-- [cybertec-postgresql/pg_timetable]([cybertec-postgresql/pg_timetable)](https://github.com/cybertec-postgresql/pg_timetable))
+- [citusdata/pg_cron](https://github.com/citusdata/pg_cron)
+- [cybertec-postgresql/pg_timetable](https://github.com/cybertec-postgresql/pg_timetable)
 
 ## Message Queues
 
@@ -93,7 +93,7 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 - [arkhipov/acl](https://github.com/arkhipov/acl)
 - https://www.postgresql.org/docs/current/pgcrypto.html
 - [michelp/pgjwt](https://github.com/michelp/pgjwt)
-- [supabase.com/docs/guides/database/vault](https://supabase.com/docs/guides/database/vault))
+- [supabase.com/docs/guides/database/vault](https://supabase.com/docs/guides/database/vault)
 
 ## Search
 
@@ -158,7 +158,7 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 
 - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 - https://www.postgresql.org/docs/current/sql-notify.html
-- [cpursley/walex (Disclosure: I maintain this and think it's pretty awesome)](https://github.com/cpursley/walex "Disclosure: I maintain this and think it's pretty awesome")
+- [cpursley/walex](https://github.com/cpursley/walex) (Disclosure: I maintain this and think it's pretty awesome)
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb)
 - [debezium/debezium](https://github.com/debezium/debezium)
 - [2ndQuadrant/pglogical](https://github.com/2ndQuadrant/pglogical)
@@ -175,14 +175,14 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 
 ## HTML & Applications
 
-- [SQLpage]([lovasoa/SQLpage)](https://github.com/lovasoa/SQLpage))
-- [Omnigres]([omnigres/omnigres)](https://github.com/omnigres/omnigres))
-- [pg_render]([mkaski/pg_render)](https://github.com/mkaski/pg_render))
-- [plmustache]([PostgREST/plmustache)](https://github.com/PostgREST/plmustache))
+- [SQLpage](https://github.com/lovasoa/SQLpage)
+- [Omnigres](https://github.com/omnigres/omnigres)
+- [pg_render](https://github.com/mkaski/pg_render)
+- [plmustache](https://github.com/PostgREST/plmustache)
 
 ## Graphics & Visualizations
 
-- [pgSVG]([dr-jts/pg_svg)](https://github.com/dr-jts/pg_svg))
+- [pgSVG](https://github.com/dr-jts/pg_svg)
 
 ## Migrations
 
@@ -193,11 +193,11 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 
 ## Performance Tuning
 
-- [Supabase Index Advisor]([supabase/index_advisor)](https://github.com/supabase/index_advisor))
-- [Dexter]([ankane/dexter)](https://github.com/ankane/dexter))
-- [HypoPG]([HypoPG/hypopg)](https://github.com/HypoPG/hypopg))
-- [pg_hint_plan]([ossc-db/pg_hint_plan)](https://github.com/ossc-db/pg_hint_plan))
-- [PGHero]([ankane/pghero)](https://github.com/ankane/pghero))
+- [Supabase Index Advisor](https://github.com/supabase/index_advisor)
+- [Dexter](https://github.com/ankane/dexter)
+- [HypoPG](https://github.com/HypoPG/hypopg)
+- [pg_hint_plan](https://github.com/ossc-db/pg_hint_plan)
+- [PGHero](https://github.com/ankane/pghero)
 
 ## Scaling & Storage
 
@@ -209,7 +209,7 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 ## Dashboards & UIs
 
 - [Baserow](https://baserow.io)
-- [NocoDB]([nocodb/nocodb)](https://github.com/nocodb/nocodb))
+- [NocoDB](https://github.com/nocodb/nocodb)
 - [AppSmith](https://appsmith.com)
 
 ## Data Visualization
