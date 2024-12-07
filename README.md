@@ -76,6 +76,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 ## Analytics
 
 - [pg_analytics: Transforming Postgres into a Fast OLAP Database](https://blog.paradedb.com/pages/introducing_analytics)
+- [pg_duckdb: Official Postgres extension for DuckDB](https://github.com/duckdb/pg_duckdb)
 
 ## GIS & Mapping
 
