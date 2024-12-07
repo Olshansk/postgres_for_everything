@@ -62,8 +62,8 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 
 ## Cron Jobs
 
-- [citusdata/pg_cron]([citusdata/pg_cron)](https://github.com/citusdata/pg_cron))
-- [cybertec-postgresql/pg_timetable]([cybertec-postgresql/pg_timetable)](https://github.com/cybertec-postgresql/pg_timetable))
+- [citusdata/pg_cron](https://github.com/citusdata/pg_cron)
+- [cybertec-postgresql/pg_timetable](https://github.com/cybertec-postgresql/pg_timetable)
 
 ## Message Queues
 
