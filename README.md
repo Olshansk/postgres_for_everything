@@ -62,8 +62,8 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 
 ## Cron Jobs
 
-- [citusdata/pg_cron]([citusdata/pg_cron)](https://github.com/citusdata/pg_cron))
-- [cybertec-postgresql/pg_timetable]([cybertec-postgresql/pg_timetable)](https://github.com/cybertec-postgresql/pg_timetable))
+- [citusdata/pg_cron](https://github.com/citusdata/pg_cron)
+- [cybertec-postgresql/pg_timetable](https://github.com/cybertec-postgresql/pg_timetable)
 
 ## Message Queues
 
@@ -93,7 +93,7 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 - [arkhipov/acl](https://github.com/arkhipov/acl)
 - https://www.postgresql.org/docs/current/pgcrypto.html
 - [michelp/pgjwt](https://github.com/michelp/pgjwt)
-- [supabase.com/docs/guides/database/vault](https://supabase.com/docs/guides/database/vault))
+- [supabase.com/docs/guides/database/vault](https://supabase.com/docs/guides/database/vault)
 
 ## Search
 
@@ -174,14 +174,14 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 
 ## HTML & Applications
 
-- [SQLpage]([lovasoa/SQLpage)](https://github.com/lovasoa/SQLpage))
-- [Omnigres]([omnigres/omnigres)](https://github.com/omnigres/omnigres))
-- [pg_render]([mkaski/pg_render)](https://github.com/mkaski/pg_render))
-- [plmustache]([PostgREST/plmustache)](https://github.com/PostgREST/plmustache))
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage)
+- [omnigres/omnigres](https://github.com/omnigres/omnigres)
+- [mkaski/pg_render](https://github.com/mkaski/pg_render)
+- [PostgREST/plmustache](https://github.com/PostgREST/plmustache)
 
 ## Graphics & Visualizations
 
-- [pgSVG]([dr-jts/pg_svg)](https://github.com/dr-jts/pg_svg))
+- [dr-jts/pg_svg](https://github.com/dr-jts/pg_svg)
 
 ## Migrations
 
@@ -192,11 +192,11 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 
 ## Performance Tuning
 
-- [Supabase Index Advisor]([supabase/index_advisor)](https://github.com/supabase/index_advisor))
-- [Dexter]([ankane/dexter)](https://github.com/ankane/dexter))
-- [HypoPG]([HypoPG/hypopg)](https://github.com/HypoPG/hypopg))
-- [pg_hint_plan]([ossc-db/pg_hint_plan)](https://github.com/ossc-db/pg_hint_plan))
-- [PGHero]([ankane/pghero)](https://github.com/ankane/pghero))
+- [supabase/index_advisor](https://github.com/supabase/index_advisor)
+- [ankane/dexter](https://github.com/ankane/dexter)
+- [HypoPG/hypopg](https://github.com/HypoPG/hypopg)
+- [ossc-db/pg_hint_plan](https://github.com/ossc-db/pg_hint_plan)
+- [ankane/pghero](https://github.com/ankane/pghero)
 
 ## Scaling & Storage
 
@@ -208,7 +208,7 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 ## Dashboards & UIs
 
 - [Baserow](https://baserow.io)
-- [NocoDB]([nocodb/nocodb)](https://github.com/nocodb/nocodb))
+- [nocodb/nocodb](https://github.com/nocodb/nocodb)
 - [AppSmith](https://appsmith.com)
 
 ## Data Visualization
