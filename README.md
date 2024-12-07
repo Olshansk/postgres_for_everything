@@ -105,7 +105,6 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 
 ### Vector
 
-- [neondatabase/pg_embedding](https://github.com/neondatabase/pg_embedding)
 - [pgvector/pgvector](https://github.com/pgvector/pgvector)
 - [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord): PostgreSQL extension designed for scalable, high-performance, and disk-efficient vector similarity search. It serves as the successor to the pgvecto.rs project.
 
