@@ -174,7 +174,7 @@ you have other examples, [submit a PR](<[Olshansk/postgres_for_everything](https
 
 ## HTML & Applications
 
-- [SQLpage]([lovasoa/SQLpage)](https://github.com/lovasoa/SQLpage))
+- [SQLpage](https://sql-page.com) ([sqlpage/SQLpage](https://github.com/sqlpage/SQLpage))
 - [Omnigres]([omnigres/omnigres)](https://github.com/omnigres/omnigres))
 - [pg_render]([mkaski/pg_render)](https://github.com/mkaski/pg_render))
 - [plmustache]([PostgREST/plmustache)](https://github.com/PostgREST/plmustache))
