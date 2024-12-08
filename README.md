@@ -72,6 +72,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [SKIP LOCKED](https://www.2ndquadrant.com/en/blog/what-is-select-skip-locked-for-in-postgresql-9-5/)
 - [riverqueue/river](https://github.com/riverqueue/river)
 - [sequinstream/sequin](https://github.com/sequinstream/sequin): Sequin is a tool for change data capture (CDC) in Postgres. Sequin makes it easy to stream Postgres rows and changes to streaming platforms and queues (e.g. Kafka and SQS). You can backfill existing rows and stream new changes in real-time.
+- [janbjorge/pgqueuer](https://github.com/janbjorge/pgqueuer): PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing. 
 
 ## Analytics
 
