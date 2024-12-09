@@ -21,6 +21,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 - [Blog Posts \& Articles](#blog-posts--articles)
 - [Cron Jobs](#cron-jobs)
+- [Embeddable Postgres](#embeddable-postgres)
 - [Message Queues](#message-queues)
 - [Analytics](#analytics)
 - [GIS \& Mapping](#gis--mapping)
@@ -50,7 +51,6 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [Package Management](#package-management)
 - [Language Servers](#language-servers)
 - [Miscellaneous](#miscellaneous)
-- [Bonus: How many items include Supabase?](#bonus-how-many-items-include-supabase)
 
 ## Blog Posts & Articles
 
@@ -65,6 +65,10 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron)
 - [cybertec-postgresql/pg_timetable](https://github.com/cybertec-postgresql/pg_timetable)
 
+## Embeddable Postgres
+
+- [PGLite](https://github.com/electric-sql/pglite): WASM Postgres build packaged into a TypeScript library (< 10MB) that can run in the browser, Node.js, Bun and Deno. It's lightweight, reactive and sync live.
+
 ## Message Queues
 
 - https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology
@@ -72,7 +76,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [SKIP LOCKED](https://www.2ndquadrant.com/en/blog/what-is-select-skip-locked-for-in-postgresql-9-5/)
 - [riverqueue/river](https://github.com/riverqueue/river)
 - [sequinstream/sequin](https://github.com/sequinstream/sequin): Sequin is a tool for change data capture (CDC) in Postgres. Sequin makes it easy to stream Postgres rows and changes to streaming platforms and queues (e.g. Kafka and SQS). You can backfill existing rows and stream new changes in real-time.
-- [janbjorge/pgqueuer](https://github.com/janbjorge/pgqueuer): PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing. 
+- [janbjorge/pgqueuer](https://github.com/janbjorge/pgqueuer): PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing.
 
 ## Analytics
 
@@ -232,7 +236,3 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 - [Very comprehensive list of Postgres tooling](https://gist.github.com/mjf/d885e3631c3eaa8a5a9ea62c5c20407c)
 - [Unsupported PostgreSQL features in Aurora DSQL](https://docs.aws.amazon.com/aurora-dsql/latest/userguide/working-with-postgresql-compatibility-unsupported-features.html): AWS has a new database engine called Aurora DSQL, and explicitly listed what PostgreSQL features are not supported.
-
-## Bonus: How many items include Supabase?
-
-11
