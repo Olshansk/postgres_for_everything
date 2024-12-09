@@ -30,6 +30,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [Search](#search)
   - [Full Text](#full-text)
   - [Vector](#vector)
+  - [BM25 and Hybrid with Reciprocal Rank Fusion](#bm25-and-hybrid-with-reciprocal-rank-fusion)
 - [Time Series](#time-series)
 - [Column Oriented](#column-oriented)
 - [NoSQL](#nosql)
@@ -116,6 +117,10 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord): PostgreSQL extension designed for scalable, high-performance, and disk-efficient vector similarity search. It serves as the successor to the pgvecto.rs project.
 - [timescale/pgai](https://github.com/timescale/pgai): PostgreSQL extension to allow RAG, semantic search and other AI application development from within postgres. Based on pgvector.
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale): DiskANN vector index implementation complementary to pgvector.
+
+### BM25 and Hybrid with Reciprocal Rank Fusion
+
+ - [plpgsql_bm25](https://github.com/jankovicsandras/plpgsql_bm25)
 
 ## Time Series
 
