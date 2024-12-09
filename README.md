@@ -162,8 +162,9 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 ## Events, Replication, CDC
 
+- [electric-sql/electric](https://github.com/electric-sql/electric): HTTP API that enables synching [Shapes](https://electric-sql.com/docs/guides/shapes) (i.e. segments) of a Postgres database. It's like GraphQL for Postgres databases.
 - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
-- https://www.postgresql.org/docs/current/sql-notify.html
+- [SQL Notify](https://www.postgresql.org/docs/current/sql-notify.html)
 - [cpursley/walex](https://github.com/cpursley/walex) (Disclosure: I maintain this and think it's pretty awesome)
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb)
 - [debezium/debezium](https://github.com/debezium/debezium)
