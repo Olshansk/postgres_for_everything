@@ -30,6 +30,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [Search](#search)
   - [Full Text](#full-text)
   - [Vector](#vector)
+  - [Hybrid](#hybrid)
 - [Time Series](#time-series)
 - [Column Oriented](#column-oriented)
 - [NoSQL](#nosql)
@@ -109,6 +110,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [Postgres Full Text Search](https://gist.github.com/cpursley/e3586382c3a42c54ca7f5fef1665be7b) (bunch of helpful links)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb)
 - [Postgres Full Text Search vs the rest](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
+- [plpgsql_bm25](https://github.com/jankovicsandras/plpgsql_bm25): BM25 search implemented in PL/pgSQL
 
 ### Vector
 
@@ -116,6 +118,9 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord): PostgreSQL extension designed for scalable, high-performance, and disk-efficient vector similarity search. It serves as the successor to the pgvecto.rs project.
 - [timescale/pgai](https://github.com/timescale/pgai): PostgreSQL extension to allow RAG, semantic search and other AI application development from within postgres. Based on pgvector.
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale): DiskANN vector index implementation complementary to pgvector.
+
+### Hybrid
+- [plpgsql_bm25rrf.sql](https://github.com/jankovicsandras/plpgsql_bm25): Hybrid search (BM25+pgvector) with Reciprocal Rank Fusion implemented in PL/pgSQL
 
 ## Time Series
 
