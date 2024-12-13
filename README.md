@@ -94,6 +94,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [supabase/supa_audit](https://github.com/supabase/supa_audit)
 - [pgMemento/pgMemento](https://github.com/pgMemento/pgMemento)
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit)
+- [BemiHQ/Bemi](https://github.com/BemiHQ/bemi): Automatic data change tracking for PostgreSQL
 
 ## Access Control & Authorization
 
