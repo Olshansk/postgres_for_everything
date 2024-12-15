@@ -30,14 +30,15 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [Search](#search)
   - [Full Text](#full-text)
   - [Vector](#vector)
+  - [Hybrid](#hybrid)
 - [Time Series](#time-series)
 - [Column Oriented](#column-oriented)
 - [NoSQL](#nosql)
 - [Graph Data](#graph-data)
 - [Foreign Data](#foreign-data)
-- [Alternative Query Languages](#alternative-query-languages)
 - [HTTP](#http)
-- [APIs](#apis)
+- [API Platforms](#api-platforms)
+- [GraphQL and Alternative Query Languages](#graphql-and-alternative-query-languages)
 - [Events, Replication, CDC](#events-replication-cdc)
 - [Caching](#caching)
 - [Unit Tests](#unit-tests)
@@ -84,6 +85,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [pg_analytics: Transforming Postgres into a Fast OLAP Database](https://blog.paradedb.com/pages/introducing_analytics)
 - [pg_duckdb: Official Postgres extension for DuckDB](https://github.com/duckdb/pg_duckdb)
 - [BemiDB](https://github.com/BemiHQ/BemiDB): Postgres read replica optimized for analytics
+- [pg_moooncake: An extension for native columnstore tables in Postgres](https://github.com/Mooncake-Labs/pg_mooncake)
 
 ## GIS & Mapping
 
@@ -110,6 +112,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [Postgres Full Text Search](https://gist.github.com/cpursley/e3586382c3a42c54ca7f5fef1665be7b) (bunch of helpful links)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb)
 - [Postgres Full Text Search vs the rest](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
+- [plpgsql_bm25](https://github.com/jankovicsandras/plpgsql_bm25): BM25 search implemented in PL/pgSQL
 
 ### Vector
 
@@ -118,9 +121,13 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [timescale/pgai](https://github.com/timescale/pgai): PostgreSQL extension to allow RAG, semantic search and other AI application development from within postgres. Based on pgvector.
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale): DiskANN vector index implementation complementary to pgvector.
 
+### Hybrid
+
+- [plpgsql_bm25rrf.sql](https://github.com/jankovicsandras/plpgsql_bm25): Hybrid search (BM25+pgvector) with Reciprocal Rank Fusion implemented in PL/pgSQL
+
 ## Time Series
 
-- [timescale/timescaledb](https://github.com/timescale/timescaledb)
+- [timescale/timescaledb](https://github.com/timescale/timescaledb): TimescaleDB is PostgreSQL++ for time series and events.
 - [tembo-io/pg_timeseries](https://github.com/tembo-io/pg_timeseries)
   - [Introducing pg_timeseries: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
 
@@ -144,23 +151,22 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 - [supabase/wrappers](https://github.com/supabase/wrappers)
 
-## Alternative Query Languages
-
-- [kaspermarstal/plprql](https://github.com/kaspermarstal/plprql)
-- [supabase.github.io/pg_graphql](https://supabase.github.io/pg_graphql)
-- [dosco/graphjin](https://github.com/dosco/graphjin)
-
 ## HTTP
 
 - [pramsey/pgsql-http](https://github.com/pramsey/pgsql-http)
 - [supabase/pg_net](https://github.com/supabase/pg_net)
 
-## APIs
+## API Platforms
 
-- [PostgREST/postgrest](https://github.com/PostgREST/postgrest)
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
-- [postgraphile.org](https://postgraphile.org)
-- [supabase.github.io/pg_graphql](https://supabase.github.io/pg_graphql)
+- [PostgREST](https://github.com/PostgREST/postgrest): RESTful API from any existing PostgreSQL database
+- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine): Metadata-driven API platform
+
+## GraphQL and Alternative Query Languages
+
+- [PostGraphile](https://postgraphile.org): Extensible high-performance automatic GraphQL API for PostgresSQL
+- [supabase/pg_graphql](https://supabase.github.io/pg_graphql): PostgreSQL extension that enables querying the database with GraphQL using a single SQL function
+- [dosco/graphjin](https://github.com/dosco/graphjin): GraphJin automatically converts GraphQL into SQL queries
+- [kaspermarstal/plprql](https://github.com/kaspermarstal/plprql): PostgreSQL extension to write functions using [PRQL](https://prql-lang.org/) (Pipelined Relational Query Language)
 
 ## Events, Replication, CDC
 
@@ -225,6 +231,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 - [Evidence](https://evidence.dev)
 - [Metabase](https://metabase.com)
+- [Hopara](https://hopara.io): Real-time data visualization platform for Manufacturing, IoT, Life Science and Data Lakes.
 
 ## Package Management
 
