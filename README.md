@@ -84,6 +84,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 - [pg_analytics: Transforming Postgres into a Fast OLAP Database](https://blog.paradedb.com/pages/introducing_analytics)
 - [pg_duckdb: Official Postgres extension for DuckDB](https://github.com/duckdb/pg_duckdb)
+- [pg_moooncake: An extension for native columnstore tables in Postgres](https://github.com/Mooncake-Labs/pg_mooncake)
 
 ## GIS & Mapping
 
