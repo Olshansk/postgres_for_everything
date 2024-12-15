@@ -120,11 +120,12 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale): DiskANN vector index implementation complementary to pgvector.
 
 ### Hybrid
+
 - [plpgsql_bm25rrf.sql](https://github.com/jankovicsandras/plpgsql_bm25): Hybrid search (BM25+pgvector) with Reciprocal Rank Fusion implemented in PL/pgSQL
 
 ## Time Series
 
-- [timescale/timescaledb](https://github.com/timescale/timescaledb)
+- [timescale/timescaledb](https://github.com/timescale/timescaledb): TimescaleDB is PostgreSQL++ for time series and events.
 - [tembo-io/pg_timeseries](https://github.com/tembo-io/pg_timeseries)
   - [Introducing pg_timeseries: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
 
@@ -228,7 +229,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 - [Evidence](https://evidence.dev)
 - [Metabase](https://metabase.com)
-- [Hopara](https://hopara.io)
+- [Hopara](https://hopara.io): Real-time data visualization platform for Manufacturing, IoT, Life Science and Data Lakes.
 
 ## Package Management
 
