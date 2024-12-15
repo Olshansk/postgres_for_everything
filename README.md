@@ -228,6 +228,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 - [Evidence](https://evidence.dev)
 - [Metabase](https://metabase.com)
+- [Hopara](https://hopara.io)
 
 ## Package Management
 
