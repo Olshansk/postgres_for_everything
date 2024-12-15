@@ -35,9 +35,9 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [NoSQL](#nosql)
 - [Graph Data](#graph-data)
 - [Foreign Data](#foreign-data)
-- [Alternative Query Languages](#alternative-query-languages)
 - [HTTP](#http)
-- [APIs](#apis)
+- [API Platforms](#api-platforms)
+- [GraphQL and Alternative Query Languages](#graphql-and-alternative-query-languages)
 - [Events, Replication, CDC](#events-replication-cdc)
 - [Caching](#caching)
 - [Unit Tests](#unit-tests)
@@ -143,23 +143,22 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 - [supabase/wrappers](https://github.com/supabase/wrappers)
 
-## Alternative Query Languages
-
-- [kaspermarstal/plprql](https://github.com/kaspermarstal/plprql)
-- [supabase.github.io/pg_graphql](https://supabase.github.io/pg_graphql)
-- [dosco/graphjin](https://github.com/dosco/graphjin)
-
 ## HTTP
 
 - [pramsey/pgsql-http](https://github.com/pramsey/pgsql-http)
 - [supabase/pg_net](https://github.com/supabase/pg_net)
 
-## APIs
+## API Platforms
 
-- [PostgREST/postgrest](https://github.com/PostgREST/postgrest)
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
-- [postgraphile.org](https://postgraphile.org)
-- [supabase.github.io/pg_graphql](https://supabase.github.io/pg_graphql)
+- [PostgREST](https://github.com/PostgREST/postgrest): RESTful API from any existing PostgreSQL database
+- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine): Metadata-driven API platform
+
+## GraphQL and Alternative Query Languages
+
+- [PostGraphile](https://postgraphile.org): Extensible high-performance automatic GraphQL API for PostgresSQL
+- [supabase/pg_graphql](https://supabase.github.io/pg_graphql): PostgreSQL extension that enables querying the database with GraphQL using a single SQL function
+- [dosco/graphjin](https://github.com/dosco/graphjin): GraphJin automatically converts GraphQL into SQL queries
+- [kaspermarstal/plprql](https://github.com/kaspermarstal/plprql): PostgreSQL extension to write functions using [PRQL](https://prql-lang.org/) (Pipelined Relational Query Language)
 
 ## Events, Replication, CDC
 
