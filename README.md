@@ -61,7 +61,8 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [PostgreSQL is the worlds' best database](https://www.2ndquadrant.com/en/blog/postgresql-is-the-worlds-best-database/)
 - [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 - [Hacker News discussion](https://news.ycombinator.com/item?id=39273954)
-- [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology) (2023-09-24 )
+- [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology) (2023-09-24)
+- [Jepsen Test on Patroni: A PostgreSQL High Availability Solution](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html) (2024-12-02)
 
 ## Cron Jobs
 
