@@ -43,12 +43,13 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [Caching](#caching)
 - [Unit Tests](#unit-tests)
 - [HTML \& Applications](#html--applications)
-- [Graphics \& Visualizations](#graphics--visualizations)
 - [Migrations](#migrations)
 - [Performance Tuning](#performance-tuning)
 - [Scaling \& Storage](#scaling--storage)
 - [Dashboards \& UIs](#dashboards--uis)
-- [Data Visualization](#data-visualization)
+- [Visualization](#visualization)
+  - [Graphics Visualization](#graphics-visualization)
+  - [Data Visualization](#data-visualization)
 - [Package Management](#package-management)
 - [Language Servers](#language-servers)
 - [Miscellaneous](#miscellaneous)
@@ -60,6 +61,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [PostgreSQL is the worlds' best database](https://www.2ndquadrant.com/en/blog/postgresql-is-the-worlds-best-database/)
 - [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 - [Hacker News discussion](https://news.ycombinator.com/item?id=39273954)
+- [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology) (2023-09-24 )
 
 ## Cron Jobs
 
@@ -72,7 +74,6 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 ## Message Queues
 
-- https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq)
 - [SKIP LOCKED](https://www.2ndquadrant.com/en/blog/what-is-select-skip-locked-for-in-postgresql-9-5/)
 - [riverqueue/river](https://github.com/riverqueue/river)
@@ -82,10 +83,11 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 ## Analytics
 
-- [pg_analytics: Transforming Postgres into a Fast OLAP Database](https://blog.paradedb.com/pages/introducing_analytics)
-- [pg_duckdb: Official Postgres extension for DuckDB](https://github.com/duckdb/pg_duckdb)
+- [pg_analytics]([https://blog.paradedb.com/pages/introducing_analytics): Transforming Postgres into a Fast OLAP Database](https://github.com/paradedb/pg_analytics)]
+- [pg_duckdb](https://github.com/duckdb/pg_duckdb): Official Postgres extension for DuckDB
 - [BemiDB](https://github.com/BemiHQ/BemiDB): Postgres read replica optimized for analytics
-- [pg_moooncake: An extension for native columnstore tables in Postgres](https://github.com/Mooncake-Labs/pg_mooncake)
+- [pg_moooncake](https://github.com/Mooncake-Labs/pg_mooncake): An extension for native columnstore tables in Postgres
+- [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake): PostgreSQL extension that adds native columnstore tables with DuckDB execution.
 
 ## GIS & Mapping
 
@@ -128,8 +130,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 ## Time Series
 
 - [timescale/timescaledb](https://github.com/timescale/timescaledb): TimescaleDB is PostgreSQL++ for time series and events.
-- [tembo-io/pg_timeseries](https://github.com/tembo-io/pg_timeseries)
-  - [Introducing pg_timeseries: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
+- [tembo-io/pg_timeseries](https://github.com/tembo-io/pg_timeseries): Open-source time-series extension for PostgreSQL
 
 ## Column Oriented
 
@@ -138,14 +139,14 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 ## NoSQL
 
-- https://www.postgresql.org/docs/current/datatype-json.html
+- [JSON Types](https://www.postgresql.org/docs/current/datatype-json.html): Native support for JSON support in PostgreSQL
 - [robconery/dox](https://github.com/robconery/dox)
 - https://www.ferretdb.com
 - [Using JSONB in PostgreSQL®: How to Effectively Store & Index JSON Data in PostgreSQL](https://scalegrid.io/blog/using-jsonb-in-postgresql-how-to-effectively-store-index-json-data-in-postgresql/)
 
 ## Graph Data
 
-- https://age.apache.org
+- [Apache Age](https://age.apache.org): Graph Database for PostgreSQL to provide graph data processing and analytics capability to all relational databases.
 
 ## Foreign Data
 
@@ -195,10 +196,6 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [pg_render](https://github.com/mkaski/pg_render)
 - [plmustache](https://github.com/PostgREST/plmustache)
 
-## Graphics & Visualizations
-
-- [pgSVG](https://github.com/dr-jts/pg_svg)
-
 ## Migrations
 
 - [purcell/postgresql-migrations](https://github.com/purcell/postgresql-migrations)
@@ -227,11 +224,17 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [NocoDB](https://github.com/nocodb/nocodb)
 - [AppSmith](https://appsmith.com)
 
-## Data Visualization
+## Visualization
+
+### Graphics Visualization
+
+- [dr-jts/pg_svg](https://github.com/dr-jts/pg_svg): Collection of PostgreSQL functions to create SVG graphics intended to convert PostGIS geometries into styled SVG documents
+
+### Data Visualization
 
 - [Evidence](https://evidence.dev)
 - [Metabase](https://metabase.com)
-- [Hopara](https://hopara.io): Real-time data visualization platform for Manufacturing, IoT, Life Science and Data Lakes.
+- [Hopara](https://hopara.io): Platform for real-time data visualization intended for Manufacturing, IoT, Life Science and Data Lakes.
 
 ## Package Management
 
