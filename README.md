@@ -85,7 +85,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 
 - [pg_analytics]([https://blog.paradedb.com/pages/introducing_analytics): Transforming Postgres into a Fast OLAP Database](https://github.com/paradedb/pg_analytics)]
 - [pg_duckdb](https://github.com/duckdb/pg_duckdb): Official Postgres extension for DuckDB
-- [BemiDB](https://github.com/BemiHQ/BemiDB): Postgres read replica optimized for analytics
+- [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB): Postgres read replica optimized for analytics
 - [pg_moooncake](https://github.com/Mooncake-Labs/pg_mooncake): An extension for native columnstore tables in Postgres
 - [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake): PostgreSQL extension that adds native columnstore tables with DuckDB execution.
 
