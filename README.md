@@ -212,6 +212,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 - [HypoPG](https://github.com/HypoPG/hypopg)
 - [pg_hint_plan](https://github.com/ossc-db/pg_hint_plan)
 - [PGHero](https://github.com/ankane/pghero)
+- [pg_incremental](https://github.com/CrunchyData/pg_incremental): Extension to do fast, reliable, incremental batch processing.
 
 ## Scaling & Storage
 
