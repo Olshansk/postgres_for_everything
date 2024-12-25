@@ -17,8 +17,13 @@ It seems like every week I hear of a new tool on top of Postgres or another way
 it can being used, so I wanted a place where I can keep track of everything. If
 you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_everything/pulls)!
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Olshansk/postgres_for_everything&type=Date)](https://star-history.com/#Olshansk/postgres_for_everything&Date)
+
 ## Table of Contents <!-- omit in toc -->
 
+- [Star History](#star-history)
 - [Blog Posts \& Articles](#blog-posts--articles)
 - [Cron Jobs](#cron-jobs)
 - [Embeddable Postgres](#embeddable-postgres)
