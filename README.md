@@ -223,6 +223,11 @@ as an example, put up a PR with a link!
 - [PGHero](https://github.com/ankane/pghero)
 - [pg_incremental](https://github.com/CrunchyData/pg_incremental): Extension to do fast, reliable, incremental batch processing.
 
+## Monitoring
+
+- [StatsMgr](https://codeberg.org/Data-Bene/StatsMgr): Efficient and organized management of statistics across WAL, SLRU, checkpointing, & more. Currently supports dynamic initialization, shared memory utilization, and SQL interfaces.
+- [pgMonitor](https://github.com/CrunchyData/pgmonitor): A monitoring solution that visualizes metrics using Prometheus, Grafana, SQL Exporter, and the pgMonitor extension.
+
 ## Scaling & Storage
 
 - [How Cloudflare Achieved 55 Million Requests per Second with Just 15 PostgreSQL Clusters!](https://levelup.gitconnected.com/how-cloudflare-achieved-55-million-requests-per-second-with-just-15-postgresql-clusters-2d8a28ffd100)
