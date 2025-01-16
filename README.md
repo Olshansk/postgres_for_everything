@@ -93,7 +93,7 @@ as an example, put up a PR with a link!
 
 ## Analytics
 
-- [pg_analytics]([https://blog.paradedb.com/pages/introducing_analytics): Transforming Postgres into a Fast OLAP Database](https://github.com/paradedb/pg_analytics)]
+- [pg_analytics](https://github.com/paradedb/pg_analytics): DuckDB-powered data lake analytics from Postgres
 - [pg_duckdb](https://github.com/duckdb/pg_duckdb): Official Postgres extension for DuckDB
 - [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB): Postgres read replica optimized for analytics
 - [pg_moooncake](https://github.com/Mooncake-Labs/pg_mooncake): An extension for native columnstore tables in Postgres
@@ -123,7 +123,7 @@ as an example, put up a PR with a link!
 ### Full Text
 
 - [Postgres Full Text Search](https://gist.github.com/cpursley/e3586382c3a42c54ca7f5fef1665be7b) (bunch of helpful links)
-- [paradedb/paradedb](https://github.com/paradedb/paradedb)
+- [pg_search](https://github.com/paradedb/paradedb/tree/dev/pg_search): Full text search for Postgres using BM25
 - [Postgres Full Text Search vs the rest](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
 - [plpgsql_bm25](https://github.com/jankovicsandras/plpgsql_bm25): BM25 search implemented in PL/pgSQL
 
@@ -145,6 +145,7 @@ as an example, put up a PR with a link!
 
 ## Column Oriented
 
+- [paradedb/paradedb](https://github.com/paradedb/paradedb): Postgres for Search and Analytics
 - [hydradatabase/hydra](https://github.com/hydradatabase/hydra)
 - [citusdata/cstore_fdw](https://github.com/citusdata/cstore_fdw)
 
