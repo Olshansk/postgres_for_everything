@@ -15,7 +15,7 @@ from [@cpursley](https://gist.github.com/cpursley).
 
 It seems like every week I hear of a new tool on top of Postgres or another way
 it can being used, so I wanted a place where I can keep track of everything. If
-you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_everything/pulls)!
+you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_everything/pulls).
 
 ## Star History <!-- omit in toc -->
 
@@ -24,7 +24,7 @@ you have other examples, [submit a PR](https://github.com/Olshansk/postgres_for_
 ## Call To Action <!-- omit in toc -->
 
 If you have a specific code snippet, tool or project that you'll like to showcase
-as an example, put up a PR with a link!
+as an example, put up a PR with a link! Make sure to use the new [pull request template](https://github.com/Olshansk/postgres_for_everything/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
 
 ## Table of Contents <!-- omit in toc -->
 
