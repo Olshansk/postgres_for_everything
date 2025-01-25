@@ -54,6 +54,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [HTML \& Applications](#html--applications)
 - [Migrations](#migrations)
 - [Performance Tuning](#performance-tuning)
+- [Monitoring](#monitoring)
 - [Scaling \& Storage](#scaling--storage)
 - [Dashboards \& UIs](#dashboards--uis)
 - [Visualization](#visualization)
@@ -61,6 +62,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
   - [Data Visualization](#data-visualization)
 - [Package Management](#package-management)
 - [Language Servers](#language-servers)
+- [Data Privacy \& Security (or Data Masking)](#data-privacy--security-or-data-masking)
 - [Miscellaneous](#miscellaneous)
 
 ## Blog Posts & Articles
@@ -262,6 +264,10 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 ## Language Servers
 
 - [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp)
+
+## Data Privacy & Security (or Data Masking)
+
+- [neondatabase/postgresql_anonymizer](https://github.com/neondatabase/postgresql_anonymizer): A PostgreSQL extension to directly mask or replace Personally Identifiable Information (PII) or commercially sensitive data.
 
 ## Miscellaneous
 
