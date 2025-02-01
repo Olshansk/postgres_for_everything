@@ -56,7 +56,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [Performance Tuning](#performance-tuning)
 - [Monitoring](#monitoring)
 - [Scaling \& Storage](#scaling--storage)
-- [Dashboards \& UIs](#dashboards--uis)
+- [User Interfaces \& Dashboards](#user-interfaces--dashboards)
 - [Visualization](#visualization)
   - [Graphics Visualization](#graphics-visualization)
   - [Data Visualization](#data-visualization)
@@ -238,11 +238,12 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [pg-sharding/spqr](https://github.com/pg-sharding/spqr)
 - [orioledb.com/](https://www.orioledb.com): OrioleDB is a PostgreSQL extension that combines the advantages of both on-disk and in-memory engines. It uses PostgreSQL pluggable storage to increase performance and cut costs.
 
-## Dashboards & UIs
+## User Interfaces & Dashboards
 
 - [Baserow](https://baserow.io)
 - [NocoDB](https://github.com/nocodb/nocodb)
 - [AppSmith](https://appsmith.com)
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar): Intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—self hosted, with native Postgres access control.
 
 ## Visualization
 
