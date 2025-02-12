@@ -225,6 +225,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [pg_hint_plan](https://github.com/ossc-db/pg_hint_plan)
 - [PGHero](https://github.com/ankane/pghero)
 - [pg_incremental](https://github.com/CrunchyData/pg_incremental): Extension to do fast, reliable, incremental batch processing.
+- [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant): PostgreSQL assistant for developers designed to help understand and optimize PostgreSQL database performance
 
 ## Monitoring
 
