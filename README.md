@@ -265,7 +265,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 ## Language Servers
 
-- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp)
+- [supabase/postgres_lsp](https://github.com/supabase-community/postgres_lsp): A collection of language tools and a Language Server Protocol (LSP) implementation for Postgres, focusing on developer experience and reliable SQL tooling.
 
 ## Data Privacy & Security (or Data Masking)
 
