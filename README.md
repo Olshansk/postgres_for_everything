@@ -67,6 +67,8 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 ## Blog Posts & Articles
 
+- [You can make Postgres scale](https://pgdog.dev/blog/you-can-make-postgres-scale)
+- [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 - [Simplify: move code into database functions](https://sive.rs/pg)
 - [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/)
 - [PostgreSQL is the worlds' best database](https://www.2ndquadrant.com/en/blog/postgresql-is-the-worlds-best-database/)
@@ -185,6 +187,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 ## Events, Replication, CDC
 
+- [xataio/pgstream](https://github.com/xataio/pgstream): CDC command-line tool and library that offers Postgres replication support with DDL changes to any provided output.
 - [electric-sql/electric](https://github.com/electric-sql/electric): HTTP API that enables synching [Shapes](https://electric-sql.com/docs/guides/shapes) (i.e. segments) of a Postgres database. It's like GraphQL for Postgres databases.
 - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 - [SQL Notify](https://www.postgresql.org/docs/current/sql-notify.html)
