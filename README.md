@@ -76,6 +76,8 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [Hacker News discussion](https://news.ycombinator.com/item?id=39273954)
 - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology) (2023-09-24)
 - [Jepsen Test on Patroni: A PostgreSQL High Availability Solution](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html) (2024-12-02)
+- [PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
+- [Hacking the PostgreSQL Wire Protocol](https://pgdog.dev/blog/hacking-postgres-wire-protocol)
 
 ## Cron Jobs
 
@@ -240,6 +242,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [How Cloudflare Achieved 55 Million Requests per Second with Just 15 PostgreSQL Clusters!](https://levelup.gitconnected.com/how-cloudflare-achieved-55-million-requests-per-second-with-just-15-postgresql-clusters-2d8a28ffd100)
 - [supabase/supavisor](https://github.com/supabase/supavisor)
 - [pg-sharding/spqr](https://github.com/pg-sharding/spqr)
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog): PgDog is a transaction pooler and logical replication manager that can shard PostgreSQL. Written in Rust, PgDog is fast, secure and can manage hundreds of databases and hundreds of thousands of connections.
 - [orioledb.com/](https://www.orioledb.com): OrioleDB is a PostgreSQL extension that combines the advantages of both on-disk and in-memory engines. It uses PostgreSQL pluggable storage to increase performance and cut costs.
 
 ## User Interfaces & Dashboards
@@ -268,7 +271,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 ## Language Servers
 
-- [supabase/postgres_lsp](https://github.com/supabase-community/postgres_lsp): A collection of language tools and a Language Server Protocol (LSP) implementation for Postgres, focusing on developer experience and reliable SQL tooling.
+- [supabase/postgres-language-server](https://github.com/supabase-community/postgres-language-server): A collection of language tools and a Language Server Protocol (LSP) implementation for Postgres, focusing on developer experience and reliable SQL tooling.
 
 ## Data Privacy & Security (or Data Masking)
 
