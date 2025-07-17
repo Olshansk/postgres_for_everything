@@ -189,6 +189,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 ## Events, Replication, CDC
 
+- [aws/pgactive](https://github.com/aws/pgactive): Replication extension for creating an active-active database by AWS.
 - [xataio/pgstream](https://github.com/xataio/pgstream): CDC command-line tool and library that offers Postgres replication support with DDL changes to any provided output.
 - [electric-sql/electric](https://github.com/electric-sql/electric): HTTP API that enables synching [Shapes](https://electric-sql.com/docs/guides/shapes) (i.e. segments) of a Postgres database. It's like GraphQL for Postgres databases.
 - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
