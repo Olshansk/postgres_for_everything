@@ -201,6 +201,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 ## Caching
 
+- [tidwall/pogocache](https://github.com/tidwall/pogocache?tab=readme-ov-file#postgres): caching layer with a focus on latency and CPU efficiency.
 - https://martinheinz.dev/blog/105
 - [readysettech/readyset](https://github.com/readysettech/readyset)
 
