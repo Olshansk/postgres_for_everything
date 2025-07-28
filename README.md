@@ -1,6 +1,6 @@
 # Postgres for Everything (e/postgres)<!-- omit in toc -->
 
-Keep It Simple Stupid, just use postgres.
+Keep It Simple Stupid, just use postgres. [epostgres.com](http://epostgres.com/)
 
 ## Goals & Inspiration <!-- omit in toc -->
 
