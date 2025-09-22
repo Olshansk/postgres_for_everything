@@ -223,6 +223,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [www.bytebase.com/](https://www.bytebase.com/)
 - [xataio/pgroll](https://github.com/xataio/pgroll)
 - [stripe/pg-schema-diff](https://github.com/stripe/pg-schema-diff)
+- [pgschema/pgschema](https://github.com/pgschema/pgschema)
 
 ## Performance Tuning
 
