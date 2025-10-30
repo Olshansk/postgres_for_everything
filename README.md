@@ -63,6 +63,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [Package Management](#package-management)
 - [Language Servers](#language-servers)
 - [Data Privacy \& Security (or Data Masking)](#data-privacy--security-or-data-masking)
+- [Financial Ledgers](#financial-ledgers)
 - [Miscellaneous](#miscellaneous)
 
 ## Blog Posts & Articles
@@ -279,6 +280,10 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 ## Data Privacy & Security (or Data Masking)
 
 - [neondatabase/postgresql_anonymizer](https://github.com/neondatabase/postgresql_anonymizer): A PostgreSQL extension to directly mask or replace Personally Identifiable Information (PII) or commercially sensitive data.
+
+## Financial Ledgers
+
+- [pgledger](https://github.com/pgr0ss/pgledger)
 
 ## Miscellaneous
 
