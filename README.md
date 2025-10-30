@@ -283,7 +283,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 ## Financial Ledgers
 
-- [pgledger](https://github.com/pgr0ss/pgledger)
+- [pgledger](https://github.com/pgr0ss/pgledger): A double entry ledger implementation in PostgreSQL 
 
 ## Miscellaneous
 
