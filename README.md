@@ -154,7 +154,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [paradedb/paradedb](https://github.com/paradedb/paradedb): Postgres for Search and Analytics
 - [hydradatabase/hydra](https://github.com/hydradatabase/hydra)
 - [citusdata/cstore_fdw](https://github.com/citusdata/cstore_fdw)
-- [pg_duckdb](https://github.com/duckdb/pg_duckdb) DuckDB column storage inside Postgres
+- [pg_duckdb](https://github.com/duckdb/pg_duckdb): DuckDB column storage inside Postgres
 
 ## NoSQL
 
