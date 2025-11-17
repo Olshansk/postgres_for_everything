@@ -55,6 +55,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [Migrations](#migrations)
 - [Performance Tuning](#performance-tuning)
 - [Monitoring](#monitoring)
+- [Testing](#testing)
 - [Scaling \& Storage](#scaling--storage)
 - [User Interfaces \& Dashboards](#user-interfaces--dashboards)
 - [Visualization](#visualization)
@@ -241,6 +242,10 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 - [StatsMgr](https://codeberg.org/Data-Bene/StatsMgr): Efficient and organized management of statistics across WAL, SLRU, checkpointing, & more. Currently supports dynamic initialization, shared memory utilization, and SQL interfaces.
 - [pgMonitor](https://github.com/CrunchyData/pgmonitor): A monitoring solution that visualizes metrics using Prometheus, Grafana, SQL Exporter, and the pgMonitor extension.
+
+## Testing
+
+- [regresql](https://github.com/regresql/regresql): A tool implement a regression testing facility for SQL queries with support for the PostgreSQL database system.
 
 ## Scaling & Storage
 
