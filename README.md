@@ -58,6 +58,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [Testing](#testing)
 - [Scaling \& Storage](#scaling--storage)
 - [User Interfaces \& Dashboards](#user-interfaces--dashboards)
+- [CLIs](#clis)
 - [Visualization](#visualization)
   - [Graphics Visualization](#graphics-visualization)
   - [Data Visualization](#data-visualization)
@@ -262,6 +263,11 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [NocoDB](https://github.com/nocodb/nocodb)
 - [AppSmith](https://appsmith.com)
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar): Intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—self hosted, with native Postgres access control.
+
+## CLIs
+
+- [dbcli/pgcli](https://github.com/dbcli/pgcli): Postgres client that does auto-completion and syntax highlighting.
+- [sosedoff/pgweb](https://github.com/sosedoff/pgweb): Simple web-based and cross platform PostgreSQL database explorer.
 
 ## Visualization
 
