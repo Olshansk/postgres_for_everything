@@ -102,11 +102,11 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 ## Analytics
 
-- [pg_analytics](https://github.com/paradedb/pg_analytics): DuckDB-powered data lake analytics from Postgres
-- [pg_duckdb](https://github.com/duckdb/pg_duckdb): Official Postgres extension for DuckDB
+- [paradedb/pg_analytics](https://github.com/paradedb/pg_analytics): DuckDB-powered data lake analytics from Postgres
+- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb): Official Postgres extension for DuckDB
 - [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB): Postgres read replica optimized for analytics
-- [pg_moooncake](https://github.com/Mooncake-Labs/pg_mooncake): An extension for native columnstore tables in Postgres
 - [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake): Postgres extension that adds columnar storage and vectorized execution (DuckDB) for fast analytics within Postgres
+- [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse): Analytics queries on ClickHouse right from PostgreSQL without rewriting any SQL.
 
 ## GIS & Mapping
 
