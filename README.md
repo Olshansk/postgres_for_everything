@@ -268,6 +268,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 - [dbcli/pgcli](https://github.com/dbcli/pgcli): Postgres client that does auto-completion and syntax highlighting.
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb): Simple web-based and cross platform PostgreSQL database explorer.
+- [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit): A user friendly TUI (e.g. like lazysql) for any SQL databases including PostgreSQL.
 
 ## Visualization
 
