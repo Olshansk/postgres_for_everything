@@ -99,6 +99,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [sequinstream/sequin](https://github.com/sequinstream/sequin): Sequin is a tool for change data capture (CDC) in Postgres. Sequin makes it easy to stream Postgres rows and changes to streaming platforms and queues (e.g. Kafka and SQS). You can backfill existing rows and stream new changes in real-time.
 - [janbjorge/pgqueuer](https://github.com/janbjorge/pgqueuer): PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing.
 - [timgit/pg-boss](https://github.com/timgit/pg-boss): pg-boss is a job queue built in Node.js
+- [smartpricing/queen](https://github.com/smartpricing/queen): PostgreSQL-backed message queue with unlimited independent FIFO partitions, Kafka-style consumer groups, and exactly-once delivery. Also available as a native PostgreSQL extension.
 
 ## Analytics
 
