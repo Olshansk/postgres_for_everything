@@ -81,6 +81,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [Jepsen Test on Patroni: A PostgreSQL High Availability Solution](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html) (2024-12-02)
 - [PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
 - [Hacking the PostgreSQL Wire Protocol](https://pgdog.dev/blog/hacking-postgres-wire-protocol)
+- [Collection of PostgreSQL articles on optimizations, unknown features, data analysis and more](https://hakibenita.com/tag/postgresql)
 
 ## Cron Jobs
 
