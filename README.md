@@ -91,6 +91,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 ## Embeddable Postgres
 
 - [PGLite](https://github.com/electric-sql/pglite): WASM Postgres build packaged into a TypeScript library (< 10MB) that can run in the browser, Node.js, Bun and Deno. It's lightweight, reactive and sync live.
+- [pgmicro](https://github.com/glommer/pgmicro): An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine.
 
 ## Message Queues
 
