@@ -102,6 +102,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [janbjorge/pgqueuer](https://github.com/janbjorge/pgqueuer): PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing.
 - [timgit/pg-boss](https://github.com/timgit/pg-boss): pg-boss is a job queue built in Node.js
 - [smartpricing/queen](https://github.com/smartpricing/queen): PostgreSQL-backed message queue with unlimited independent FIFO partitions, Kafka-style consumer groups, and exactly-once delivery. Also available as a native PostgreSQL extension.
+- [NikolayS/pgque](https://github.com/NikolayS/pgque): Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.
 
 ## Analytics
 
@@ -285,6 +286,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [Evidence](https://evidence.dev)
 - [Metabase](https://metabase.com)
 - [Hopara](https://hopara.io): Platform for real-time data visualization intended for Manufacturing, IoT, Life Science and Data Lakes.
+- [posit-dev/ggsql](https://github.com/posit-dev/ggsql): A SQL extension for declarative data visualisation based on the Grammar of Graphics.
 
 ## Package Management
 
