@@ -197,6 +197,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 ## Events, Replication, CDC
 
+- [KalamDB](https://kalamdb.org): SQL-first realtime state database for AI agents (USER isolation, live subscriptions) with a PostgreSQL bridge via [pg_kalam](https://github.com/kalamdb/KalamDB).
 - [aws/pgactive](https://github.com/aws/pgactive): Replication extension for creating an active-active database by AWS.
 - [xataio/pgstream](https://github.com/xataio/pgstream): CDC command-line tool and library that offers Postgres replication support with DDL changes to any provided output.
 - [electric-sql/electric](https://github.com/electric-sql/electric): HTTP API that enables synching [Shapes](https://electric-sql.com/docs/guides/shapes) (i.e. segments) of a Postgres database. It's like GraphQL for Postgres databases.
@@ -254,6 +255,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 ## Scaling & Storage
 
+- [kalamdb/koldstore](https://github.com/kalamdb/koldstore): Open-source PostgreSQL tiered-storage extension — hot rows stay in the heap, history flushes to Parquet, one-table queries ([kalamdb.org/koldstore](https://kalamdb.org/koldstore)).
 - [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake): Enables leveraging Postgres as a standalone lakehouse system. It supports transactions and queries on Iceberg tables, enabling it to directly work with raw data files in object stores like S3.
 - [supabase/supavisor](https://github.com/supabase/supavisor)
 - [pg-sharding/spqr](https://github.com/pg-sharding/spqr)
