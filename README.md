@@ -261,6 +261,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer): Lightweight connection pooler for PostgreSQL. See also: [Scaling Postgres Connections with PgBouncer](https://planetscale.com/blog/scaling-postgres-connections-with-pgbouncer).
 - [orioledb.com/](https://www.orioledb.com): OrioleDB is a PostgreSQL extension that combines the advantages of both on-disk and in-memory engines. It uses PostgreSQL pluggable storage to increase performance and cut costs.
 - [How Cloudflare Achieved 55 Million Requests per Second with Just 15 PostgreSQL Clusters!](https://levelup.gitconnected.com/how-cloudflare-achieved-55-million-requests-per-second-with-just-15-postgresql-clusters-2d8a28ffd100)
+- [kalamdb/koldstore](https://github.com/kalamdb/koldstore): PostgreSQL tiered-storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
 
 ## User Interfaces & Dashboards
 
