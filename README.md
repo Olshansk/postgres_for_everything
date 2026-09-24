@@ -187,6 +187,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 
 - [PostgREST](https://github.com/PostgREST/postgrest): RESTful API from any existing PostgreSQL database
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine): Metadata-driven API platform
+- [Nhost](https://github.com/nhost/nhost): GraphQL API over your Postgres schema with row-level permissions, plus auth, storage and functions
 
 ## GraphQL and Alternative Query Languages
 
