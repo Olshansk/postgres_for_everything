@@ -78,6 +78,7 @@ as an example, put up a PR with a link! Make sure to use the new [pull request t
 - [Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 - [Hacker News discussion](https://news.ycombinator.com/item?id=39273954)
 - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology) (2023-09-24)
+- [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks): Benchmarks Postgres pub/sub and queue workloads.
 - [Jepsen Test on Patroni: A PostgreSQL High Availability Solution](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html) (2024-12-02)
 - [PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
 - [Hacking the PostgreSQL Wire Protocol](https://pgdog.dev/blog/hacking-postgres-wire-protocol)
